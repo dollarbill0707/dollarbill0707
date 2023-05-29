@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-I'm Daler student of the University of Lodz.
+I'm Daler student at the University of Lodz.
 
