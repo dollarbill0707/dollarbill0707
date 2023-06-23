@@ -1,4 +1,4 @@
-Hello there! 👋 Nice to see you.
+#Hello there! 👋 Nice to see you.
 
 Welcome to my Github profile!
 I'm Daler, a computer science student at the University of Lodz
